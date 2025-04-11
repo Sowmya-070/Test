@@ -1,8 +1,7 @@
 {
-  "name": "node-azure-app",
+  "name": "node-azure-api",
   "version": "1.0.0",
-  "description": "A basic Node.js application for Azure Web Apps",
-  "main": "app.js",
+  "description": "A Node.js Express API for Azure Static Web Apps",
   "scripts": {
     "start": "node app.js"
   },
